@@ -1,5 +1,5 @@
 # MasaiPizzaApp
-Masai Pizza App is an Individual Fullstack Project. I made and continuously improved this project By using ReactJS,Redux,Thunk,JS, CSS, Node, and Mui. 
+Masai Pizza App is an Individual Fullstack Project. I made and continuously improved this project By using ReactJS,Redux,Thunk,JS, CSS, Node,MongoDB and Mui. 
 
 # Project Type-
 Individual project.
