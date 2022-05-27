@@ -1,0 +1,251 @@
+
+
+    [{
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 1
+    },
+    {
+        "name": "BARBECUE VEG-PARADISE",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 320,
+                "medium": 350,
+                "large": 420
+            }
+        ],
+        "category": "veg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4oBQiWzV3Tlp6JSVOpevaJn7HZ-1dpVHo-vFtRYaSDcH3FjN5-ECyN1rRMItOmDNxPQ&usqp=CAU",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 2
+    },
+    {
+        "name": "ONION BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 380,
+                "medium": 450,
+                "large": 380
+            }
+        ],
+        "category": "nonveg",
+        "image": "http://feenix.co.in/wp-content/uploads/2018/02/LoadedL.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 3
+    },
+    {
+        "name": "VEG SHORMA PIZZA",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 200,
+                "medium": 450,
+                "large": 610
+            }
+        ],
+        "category": "veg",
+        "image": "https://feenix.co.in/wp-content/uploads/2019/03/IndianTandooriPaneer.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 4
+    },
+    {
+        "name": "PEPPER MUTTON PIZZA",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 320,
+                "medium": 450,
+                "large": 400
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfx24_GYgKFeGtJRYDC-21ezqwRQLcM0w-kra8dbOiy0L66E0-Nfcl7oKGeV3fQwm_vRw&usqp=CAU",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 5
+    },
+    {
+        "name": "CHEEZ CHICKEN PIZZA",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 160,
+                "medium": 450,
+                "large": 500
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 6
+    },
+    {
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 7
+    },
+    {
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 8
+    },
+    {
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 9
+    },
+    {
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 10
+    },
+    {
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 11
+    },{
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 12
+    },
+    {
+        "name": "PEPPER BARBECUE CHICKEN",
+        "varients": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "prices": [
+            {
+                "small": 310,
+                "medium": 350,
+                "large": 370
+            }
+        ],
+        "category": "nonveg",
+        "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque.jpg",
+        "description": "Pepper Barbecue Chicken I Cheese",
+        "id": 1
+    }
+
+
+    ]

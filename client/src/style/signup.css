@@ -1,0 +1,21 @@
+.signupDiv{
+    margin: auto;
+   
+}
+
+.signupForm{
+    /* border:1px solid red; */
+   width: 400%;
+   height: 200px;
+   margin: auto;
+   
+}
+.signupForm :nth-child(1){
+    
+    /* margin-top: 50px; */
+}
+.TextField{
+    width: 99%;
+    border: 1px solid red;
+    margin-top: 200px;
+}

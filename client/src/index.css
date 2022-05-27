@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@1,500&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Libre Bodoni', serif impo  !important;}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+img{
+  height: 150px;
+  width: 150px;
+}
+.felx-container{
+  display: flex;
+}
+.btn{
+  background-color: red;
+  color: white;
+}
+select{
+  box-shadow: none;
+  border: black;
+}
+.nav a{
+  color: black;
+  /* font-size: 40px;
+   */
+   font-weight: bolder;
+}
+
+.nav{
+  position:fixed;
+  background-color: rgb(9,92,145);
+  width: 100%;
+  
+  margin-bottom: 100px;
+  justify-content: space-around;
+}
+
+ .nav .masai_name{
+  font-family: 'Koulen', cursive;
+  color:blanchedalmond;
+  font-size: 69px;
+  margin-right: 500px;
+  text-decoration: none;
+ 
+}
+.nav a{
+  text-decoration: none;
+
+}
+.nav .logo{
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  margin-right: 70px;
+ 
+}
+.home{
+  z-index: 1;
+
+}
+
+.m-1{
+  
+  
+}
+.loginCart{
+  background-color: red;
+  justify-content: space-between;
+  
+
+}
+.loginCart a{
+  font-size: 20px;
+  color: antiquewhite;
+  margin: auto;
+}
+
+
+
+
+
+/*! CHEACKOUT--------------------------------- */
